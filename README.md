@@ -19,14 +19,14 @@
 
  ***Starting Page***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/tech-conf-site/master/img/start.png" alt="this is a screen shot of the starting page of the dish submitter web app.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/Dish-submitter/master/img/start.png" alt="this is a screen shot of the starting page of the dish submitter web app.">
 
 
 ***With Dishes***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/tech-conf-site/master/img/2dishes.png" alt="this is a screen shot of the dish submitter web app with two dishes having been submitted.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/Dish-submitter/master/img/2dishes.png" alt="this is a screen shot of the dish submitter web app with two dishes having been submitted.">
 
 
  ***Mobile View***
 
- <img src="https://raw.githubusercontent.com/LWRGitHub/tech-conf-site/master/img/mob.png" alt="this is a screen shot of the mobile view of the dish submitter web app.">
+ <img src="https://raw.githubusercontent.com/LWRGitHub/Dish-submitter/master/img/mob.png" alt="this is a screen shot of the mobile view of the dish submitter web app.">
