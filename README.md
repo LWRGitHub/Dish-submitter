@@ -7,7 +7,7 @@
  - HTML/CSS
  - DOM 
  - Google Fonts
- - [GitHub Pages](https://lwrgithub.github.io/Dish-submitter)
+ - [GitHub Pages](https://lwrgithub.github.io/Dish-submitter/)
 
 
  ## Setup/Install
